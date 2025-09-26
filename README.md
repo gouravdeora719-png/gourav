@@ -2,4 +2,4 @@
 this my frist git
 <br>
 
-author - tailor
+author - TAILOR
